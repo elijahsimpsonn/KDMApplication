@@ -6,3 +6,6 @@ This game is heavy and my players would like a more streamlined experience. This
 
 # How do I use it?
 This will be documented better once we have application v1 running. I am currently working on tickets to complete this.
+
+
+Projext Board - https://github.com/users/elijahsimpsonn/projects/1
