@@ -1,5 +1,8 @@
-# KDMApplication
+# What is KDM?
+Monster is cooperative game for up to 4 players. Play survivors ekeing out an existence in the overwhelming darkness. Your story unfolds in a campaign that is played over many nights at the game table or ends quickly in bitter defeat. Every decision matters. Every space moved, every resource spent, every governing principle chosen - all have lasting impact on this highly replayable and challenging game.
 
-KDM, or Kingdom Death Monster, is a tabletop strategy game where surviors hunt monsters to help keep their settlement alive while also defending themselves from the horrors that attack them.
+# What is this project?
+This game is heavy and my players would like a more streamlined experience. This project aims at providing that as well a QoL improvements for the game. This is for personal use only, I don't own any of the rights to any of the content in this project
 
-It is a complicated game, and it's often joked that it's more of a paper keeping activty over a board game experience. While some like this, including myself, my playgroup has desired a more streamlined way to play the game, so we are developing a webapp for person use
+# How do I use it?
+This will be documented better once we have application v1 running. I am currently working on tickets to complete this.
