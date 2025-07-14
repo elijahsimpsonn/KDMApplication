@@ -5,7 +5,4 @@ Monster is cooperative game for up to 4 players. Play survivors ekeing out an ex
 This game is heavy and my players would like a more streamlined experience. This project aims at providing that as well a QoL improvements for the game. This is for personal use only, I don't own any of the rights to any of the content in this project
 
 # How do I use it?
-This will be documented better once we have application v1 running. I am currently working on tickets to complete this.
-
-
-Projext Board - https://github.com/users/elijahsimpsonn/projects/1
+Currently the project MVP is being worked on, starting with the large task of creating a complex relational database in SQlite and populating the game data, as well as logic to define certain game systems. We will then be working on the web application itself which will also take some time since we have goal to make this a very enjoyable user experience
